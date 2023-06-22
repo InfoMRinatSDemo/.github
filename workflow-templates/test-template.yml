@@ -1,4 +1,4 @@
-name: LACMH Test workflow template
+name: SIC Test workflow template
 
 on:
   push:
