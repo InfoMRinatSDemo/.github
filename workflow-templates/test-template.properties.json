@@ -1,6 +1,6 @@
 {
-    "name": "LACMH Demo WF workflow template",
-    "description": "This is a custom workflow template for LACMH.",
+    "name": "SIC Demo WF workflow template",
+    "description": "This is a custom workflow template for SIC.",
     "iconName": "test-template-icon",
     "categories": [
         "javascript"
