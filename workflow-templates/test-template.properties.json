@@ -1,6 +1,6 @@
 {
-    "name": "SIC Demo WF workflow template",
-    "description": "This is a custom workflow template for SIC.",
+    "name": "Expedia Demo WF workflow template",
+    "description": "This is a custom workflow template for Expedia.",
     "iconName": "test-template-icon",
     "categories": [
         "javascript"
