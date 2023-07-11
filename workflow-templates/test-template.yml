@@ -1,4 +1,4 @@
-name: SIC Test workflow template
+name: Expedia Test workflow template
 
 on:
   push:
