@@ -1,4 +1,4 @@
-name: Expedia Test workflow template
+name: First American Test workflow template
 
 on:
   push:
