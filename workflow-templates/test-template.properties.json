@@ -1,6 +1,6 @@
 {
-    "name": "Expedia Demo WF workflow template",
-    "description": "This is a custom workflow template for Expedia.",
+    "name": "First American Demo WF workflow template",
+    "description": "This is a custom workflow template for First American.",
     "iconName": "test-template-icon",
     "categories": [
         "javascript"
