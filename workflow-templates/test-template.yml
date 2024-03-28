@@ -1,4 +1,4 @@
-name: First American Test workflow template
+name: Point72 Test workflow template
 
 on:
   push:
