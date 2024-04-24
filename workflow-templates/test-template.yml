@@ -1,4 +1,4 @@
-name: Point72 Test workflow template
+name: Quest Diagnostics Test workflow template
 
 on:
   push:
